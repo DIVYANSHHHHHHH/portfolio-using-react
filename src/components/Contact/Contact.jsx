@@ -11,7 +11,7 @@ export default function Contact() {
                                 Get in touch: 
                             </h1>
                             <p className="text-normal text-lg sm:text-xl font-medium text-gray-600 mt-2">
-                                baat krne ke liye parcha bhare
+                                fill to contact
                             </p>
 
                             <div className="flex items-center mt-8 text-gray-600">
@@ -90,7 +90,7 @@ export default function Contact() {
                         <form className="p-6 flex flex-col justify-center">
                             <div className="flex flex-col">
                                 <label for="name" className="hidden">
-                                    naam likh
+                                    name write
                                 </label>
                                 <input
                                     type="name"
@@ -131,7 +131,7 @@ export default function Contact() {
                                 type="submit"
                                 className="md:w-32 bg-orange-700 hover:bg-blue-dark text-white font-bold py-3 px-6 rounded-lg mt-3 hover:bg-orange-600 transition ease-in-out duration-300"
                             >
-                                dabado
+                                click
                             </button>
                         </form>
                     </div>
